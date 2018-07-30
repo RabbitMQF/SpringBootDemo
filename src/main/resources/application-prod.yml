@@ -4,10 +4,10 @@ server:
       uri-encoding: UTF-8
 spring:
   datasource:
-      driver-class-name: com.mysql.jdbc.Driver
-      url: jdbc:mysql://120.24.5.178:3306/loginDemo?characterEncoding=utf-8&useSSL=false
-      username: root
-      password: li197910
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://223.93.139.200:10010/sg_demo?characterEncoding=utf-8&useSSL=false
+    username: root
+    password: hzzl2016
   http:
       encoding:
         charset: utf-8
